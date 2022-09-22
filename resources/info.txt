@@ -1,0 +1,1 @@
+In this directory, additional files are included. The database is based on this files. Thus in the development, these files can be checked.
