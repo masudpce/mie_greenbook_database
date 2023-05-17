@@ -1,0 +1,14 @@
+15-batch
+    session: 2015-2016, exam-2016 -- L1-(T1, T2 and self study)  [my lost 3 gradesheet] 
+    session: 2016-2017, exam-2017 -- L2-(T1, T2 and self study)  [my lost 2 (T1, T2)]
+    session: 2017-2018, exam-2018 -- L3-(T1, T2 and self study)  [my lost 3]
+    session: 2018-2019, exam-2019 -- L4-(T1, T2 and self study)  
+
+16-batch    
+    session: 2016-2017, exam-2017 -- L1-(T1, T2 and self study)   
+    session: 2017-2018, exam-2018 -- L2-(T1, T2 and self study)   
+    session: 2018-2019, exam-2019 -- L3-(T1, T2 and self study)  [my lost 1 (T1)] 
+    session: 2019-2020, exam-2020 -- L4-(T1, T2 and self study)
+    
+19-batch
+    session: 2019-2020, exam-2020 -- L1-(T1, T2 and self study)  
